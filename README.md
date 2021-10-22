@@ -1,2 +1,1 @@
-# GamesWanted
-Discordボット　コマンドによりゲーム募集をかけることができます
+# Discord Bot
